@@ -3,7 +3,6 @@
 # Emad Deym
 ### Application Security Engineer
 
-[![Email](https://img.shields.io/badge/Email-emaddeym%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emaddeym@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-darkdoomrag3-181717?style=flat-square&logo=github)](https://github.com/darkdoomrag3)
 
 </div>
@@ -14,36 +13,6 @@ Application Security Engineer with a software engineering and DevSecOps backgrou
 securing web applications, APIs, cloud infrastructure, and AI-driven platforms. Track record
 identifying critical vulnerabilities including RCE, Command Injection, Authorization Flaws,
 Business Logic Vulnerabilities, Race Conditions, and OWASP Top 10 risks.
-
-**Key achievements**
-- Identified and helped remediate RCE, Command Injection, Authorization Flaws, Business Logic
-  Vulnerabilities, Race Conditions, and Secret Exposure in production systems
-- Integrated Semgrep, Trivy, OWASP ZAP, and GitLeaks into CI/CD as automated security gates
-- Reduced GCP cloud costs from ~$600/day to ~$100/day through API, database, and infrastructure
-  optimization found during security review
-- Implemented Terraform-based security controls and GCP Cloud Armor protections
-
-## Experience
-
-**Application Security Engineer — ActionModel** (UK, remote) · Sep 2025 – Present
-Application security across AI-driven web, API, desktop, and agent-based systems; secure code
-review; CI/CD security gates (Semgrep, Trivy, OWASP ZAP, GitLeaks); Terraform + GCP Cloud Armor
-infrastructure hardening.
-
-**Software QA Automation / Application Security Engineer — Okala** (Tehran) · Aug 2023 – Sep 2025
-Application security testing for a platform serving 20M+ users — Business Logic flaws, Race
-Conditions, Broken Access Control, API authorization bypasses. Led test-framework migration from
-Cypress to Playwright across 1,200+ automated scenarios.
-
-**Software QA Automation / Application Security Engineer — Qebraq Show** (Tehran) · Nov 2022 – Aug 2023
-Penetration testing on web applications and APIs; authentication, authorization, and input
-validation vulnerabilities; Selenium/Appium automation frameworks.
-
-**Frontend Developer — Asa** (Tehran) · Sep 2019 – Nov 2022
-React.js/TypeScript frontend features; Cypress test suites for critical user journeys.
-
-**Full-Stack Developer — Pollos** (Tehran) · Sep 2017 – Sep 2019
-React.js frontend + Node.js REST API services; Jest/Mocha test coverage.
 
 ## Featured project
 
