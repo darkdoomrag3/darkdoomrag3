@@ -1,7 +1,7 @@
 <div align="center">
 
 # Emad Deym
-### Senior QA Automation Engineer | SDET | Security-Focused Quality Engineering
+### Senior QA Automation Engineer | Software Engineer in Test | Security-Focused Quality Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-darkdoomrag3-181717?style=flat-square&logo=github)](https://github.com/darkdoomrag3)
 
@@ -9,9 +9,9 @@
 
 ## About
 
-Senior QA Automation Engineer / SDET with 6+ years of experience building automation frameworks,
-CI quality gates, release validation systems, and security-aware test infrastructure for web,
-mobile, API, desktop, and AI-driven platforms.
+Senior QA Automation Engineer / Software Engineer in Test with 6+ years of experience building
+automation frameworks, CI quality gates, release validation systems, and security-aware test
+infrastructure for web, mobile, API, desktop, and AI-driven platforms.
 
 I specialize in advanced test automation and quality engineering: Playwright-first frameworks,
 API automation, mobile automation, CI/CD optimization, observability, performance testing, and
