@@ -9,25 +9,15 @@
 
 ## About
 
-I am a Senior QA Automation Engineer / SDET with 6+ years of experience building automation
-frameworks, CI quality gates, release validation systems, and security-aware test infrastructure
-for web, mobile, API, desktop, and AI-driven platforms.
+Senior QA Automation Engineer / SDET with 6+ years of experience building automation frameworks,
+CI quality gates, release validation systems, and security-aware test infrastructure for web,
+mobile, API, desktop, and AI-driven platforms.
 
-My core strength is advanced SDET work: Playwright, Cypress, Selenium, Appium, API automation,
-test architecture, CI/CD optimization, observability, performance testing, and scalable regression
-systems. I also work deeply in application security testing, including OWASP Top 10, auth/authz
-testing, business-logic testing, secure code review, SAST, DAST, SCA, secret detection, and
-vulnerability validation.
-
-## What I Work On
-
-- Test automation frameworks for complex web, API, mobile, desktop, and AI/agent workflows.
-- Playwright-first automation with fixtures, API clients, test-data utilities, custom helpers,
-  trace-based debugging, sharding, and parallel execution.
-- CI/CD quality gates that combine E2E, API, performance, and security checks before release.
-- Security validation using OWASP ZAP, Burp Suite, Semgrep, Trivy, GitLeaks, and manual testing.
-- Observability for quality: flakiness, coverage, execution time, failed builds, release risk,
-  infrastructure cost, logs, API usage, and database performance.
+I specialize in advanced test automation and quality engineering: Playwright-first frameworks,
+API automation, mobile automation, CI/CD optimization, observability, performance testing, and
+scalable regression systems. I also bring strong application security testing experience across
+OWASP Top 10, auth/authz, business logic, secure code review, SAST, DAST, SCA, secret detection,
+and vulnerability validation.
 
 ## Selected Impact
 
@@ -40,18 +30,18 @@ vulnerability validation.
 - Helped reduce daily GCP cost from about $600/day to about $100/day by analyzing automated
   test-run logs, API usage, database patterns, and infrastructure behavior.
 - Found and helped validate security issues including command injection, race conditions,
-  authorization flaws, business-logic bugs, backdoor-like behavior, and input-validation issues.
+  authorization flaws, business-logic bugs, and input-validation weaknesses.
 
-## Tech Stack
+## Core Stack
 
-**Automation**: Playwright, Cypress, Selenium WebDriver, Appium, WebDriverIO, Postman,
-Cucumber/Gherkin, Jest, Mocha, Page Object Model, fixtures, data-driven testing.
+**Automation**: Playwright, Cypress, Selenium, Appium, WebDriverIO, Postman, Cucumber/Gherkin,
+Jest, Mocha, fixtures, API clients, test-data utilities, sharding, parallel execution.
 
-**Security**: OWASP Top 10, OWASP ZAP, Burp Suite, Semgrep, Trivy, GitLeaks, SAST, DAST, SCA,
-secret detection, auth testing, authorization testing, business-logic testing, secure code review.
+**Security**: OWASP ZAP, Burp Suite, Semgrep, Trivy, GitLeaks, OWASP Top 10, SAST, DAST, SCA,
+auth/authz testing, business-logic testing, secure code review.
 
-**Performance & Observability**: k6, JMeter, Grafana, log analysis, API profiling, database query
-profiling, load testing, stress testing, flakiness tracking.
+**Performance & Observability**: k6, JMeter, Grafana, log analysis, API profiling, database
+profiling, flakiness tracking, execution-time monitoring.
 
 **Engineering**: TypeScript, JavaScript, Python, C#, SQL, GitHub Actions, Jenkins, Docker, GCP,
 AWS, Git, Linux.
@@ -71,10 +61,3 @@ AWS, Git, Linux.
 ![Semgrep](https://img.shields.io/badge/-Semgrep-2A5B84?style=flat-square)
 ![Trivy](https://img.shields.io/badge/-Trivy-1904DA?style=flat-square)
 ![GitLeaks](https://img.shields.io/badge/-GitLeaks-EE4266?style=flat-square)
-
-## Current Focus
-
-- Advanced Playwright and AI/agent workflow automation.
-- Security-focused release validation and quality gates.
-- Faster, cheaper, more observable CI pipelines.
-- Practical application security testing inside QA/SDET workflows.
