@@ -1,7 +1,7 @@
 <div align="center">
 
 # Emad Deym
-### Senior QA Automation Engineer | Software Engineer in Test | Security-Focused Quality Engineering
+### Software Engineer in Test | Security-Focused Quality Engineering | Application security Engineer
 
 [![GitHub](https://img.shields.io/badge/GitHub-darkdoomrag3-181717?style=flat-square&logo=github)](https://github.com/darkdoomrag3)
 
