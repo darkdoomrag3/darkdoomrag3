@@ -32,6 +32,18 @@ and vulnerability validation.
 - Found and helped validate security issues including command injection, race conditions,
   authorization flaws, business-logic bugs, and input-validation weaknesses.
 
+## Knowledge Sharing
+
+I write and maintain long-form interview-prep guides, each packaged as a single offline HTML
+file with junior-to-senior questions and simple-English answers:
+
+- **[AppSec Interview Mastery](https://github.com/darkdoomrag3/appsec-knowledge-sharing)** -
+  application security fundamentals through senior-level interview prep.
+- **SDET Mastery** (same repo) - 600+ practical answers, checklists, and architecture guidance
+  for Software Engineers in Test, covering automation, CI/CD, performance, and more.
+
+More guides are being added to the collection over time.
+
 ## Core Stack
 
 **Automation**: Playwright, Cypress, Selenium, Appium, WebDriverIO, Postman, Cucumber/Gherkin,
